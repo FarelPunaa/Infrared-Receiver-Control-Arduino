@@ -13,7 +13,7 @@
 ## 📸 Skema / Wiring
 
 
-![Skema](wiring.jpg)
+![Skema](skema.jpg)
 
 
 ## 📬 Kontak
